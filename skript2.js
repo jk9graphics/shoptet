@@ -1,4 +1,6 @@
 <script>
+  console.log("✅ skript2.js načten");
+
 (function () {
   const FILTER_IDS = {
     znacka: 'c-id-62',
